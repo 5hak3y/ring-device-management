@@ -1,0 +1,15 @@
+{
+  "name": "ring-location-update",
+  "version": "1.0.0",
+  "description": "AWS lambda function to update location mode of Ring devices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "5hak3y",
+  "private": true,
+  "devDependencies": {},
+  "dependencies": {
+    "ring-client-api": "~9.24.0"
+  }
+}
